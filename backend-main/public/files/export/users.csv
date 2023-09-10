@@ -1,3 +1,6 @@
 FirstName,LastName,Email,Phone,Gender,Status,Profile,Location,DateCreated,DateUpdated
 Kiran raj,Kiran,kiranraj@gmail.com,7845124512,Male,Active,image-1694350836133.fashion.png,Chennai,Sun Sep 10 2023 06:29:49 GMT+0530 (India Standard Time),Sun Sep 10 2023 06:30:36 GMT+0530 (India Standard Time)
-kali,kali,kali@gmail.com,8956231475,Male,Active,image-1694351752578.fashion.png,India,Sun Sep 10 2023 06:45:52 GMT+0530 (India Standard Time),-
+kali,kali,kali@gmail.com,8956231475,Male,InActive,image-1694351752578.fashion.png,India,Sun Sep 10 2023 06:45:52 GMT+0530 (India Standard Time),-
+Archana,kavi,ravi@gmail.com,8855226633,Female,Active,image-1694352545052.fashion.png,Chennai,Sun Sep 10 2023 06:59:05 GMT+0530 (India Standard Time),-
+Kannan,raj,raj@gmail.com,1234567890,Male,Active,image-1694354692912.home.png,TAMILNADU,Sun Sep 10 2023 07:34:52 GMT+0530 (India Standard Time),-
+vikaram,jay,vikaram@gmail.com,7865452563,Male,Active,image-1694355874803.beauty.png,Namakkal,Sun Sep 10 2023 07:54:34 GMT+0530 (India Standard Time),-
